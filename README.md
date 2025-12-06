@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Customer & Market Performance Analysis – Excel Project" width="100%">
+</p>
 # 📊 Customer and Marketing Performance Analysis – AtliQ Hardware
 
 This project analyzes the customer and marketing performance of AtliQ Hardware using Excel.
